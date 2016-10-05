@@ -42,3 +42,10 @@ As an avid fan of PAYDAY 2, this is the second script I've written strictly for 
 After taking a break from PD2, I came back post update-100. I've been having a horrendous time with crashing. After uninstalling all mods, doing a full reinstall, and wasting hours and hours reading different posts, I finally found a post from a PD2 mod named Manager of the Melons that had the exact solution I was looking for. (I'm going somewhere with this. Keep reading.)  
 One thing I noticed in my searches is that certain logs were constantly requested by people trying to help those having problems.
 I decided to give back by making an all-in-one, simple program that helps the end user get that info to those wanting to help.
+
+###Final Edit:
+I've created a new program called PLAYDAY. It's a PAYDAY 2 launcher/stand alone program with a TON of features.
+I have incorporated PD2 EZ Reporter into it.
+
+Unless Overkill changes it's error file locations, this should be the last update this program needs.
+PD2 EZ Reporter still works as a stand alone program, however PLAYDAY 2
